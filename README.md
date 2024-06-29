@@ -1,6 +1,6 @@
 # bootstrap_python_example
 
-Brief description of what your application does and what problem it solves.
+Brief description of what your application does and what problem it solves
 
 ## Getting Started
 
